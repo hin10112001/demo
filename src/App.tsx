@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import DetailProduct from "./pages/DetailProduct";
+import DetailProduct from "./pages/Cart";
 function App() {
   return (
     <>
